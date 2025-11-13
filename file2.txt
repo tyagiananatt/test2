@@ -1,1 +1,1 @@
-hello text from file2
+hello text from file2here is the updated content of file2.txt
